@@ -77,6 +77,7 @@ async function getGasPrice(debug)
         }
     };
     // Alternative: https://docs.ethgasstation.info/gas-price
+    // test 
     // https://ethgasstation.info/api/ethgasAPI.json?api-key=XXAPI_Key_HereXXX
     // ***Note: To convert the provided values to gwei, divide by 10.***
 
